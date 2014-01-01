@@ -92,6 +92,14 @@ icon_DATA =				\
 	speaker-muted-033.svg		\
 	speaker-muted-066.svg		\
 	speaker-muted-100.svg		\
+	mic-000.svg			\
+	mic-033.svg			\
+	mic-066.svg			\
+	mic-100.svg			\
+	mic-muted-000.svg			\
+	mic-muted-033.svg			\
+	mic-muted-066.svg			\
+	mic-muted-100.svg			\
 	touchpad-capacitive.svg		\
 	touchpad-resistive.svg		\
 	user-documents.svg
